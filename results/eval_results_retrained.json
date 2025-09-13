@@ -1,0 +1,13 @@
+{
+    "eval_train_loss": 14.448651313781738,
+    "eval_train_model_preparation_time": 0.0026,
+    "eval_train_bleu": 38.2071,
+    "eval_train_meteor": 0.6504,
+    "eval_train_rouge_l": 0.6578,
+    "eval_train_ter": 44.9422,
+    "eval_train_chrf": 63.2535,
+    "eval_train_gen_len": 7.7095,
+    "eval_train_runtime": 442.1108,
+    "eval_train_samples_per_second": 22.854,
+    "eval_train_steps_per_second": 1.43
+}
