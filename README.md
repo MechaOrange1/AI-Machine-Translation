@@ -10,6 +10,10 @@ Here are the result for this project. We compared 5 different metrics.
 | :-------------: | :------------: |
 | ![Before Graph](./results/graphbefore.png) | ![After Graph](./results/graphafter.png) |
 
+## Live Demo
+
+https://huggingface.co/spaces/Mechabruh/AI-Machine-Translation
+
 ## The Final Re-trained Model
 
 Since it is too large to be included in this Git repository, you can access our final model from the following link:
